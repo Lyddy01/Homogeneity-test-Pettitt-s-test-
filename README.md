@@ -31,10 +31,11 @@ This analysis was carried out in R using the following packages:
 
    📊 Example Output
 🔹 Rainfall Time Series with Change Point
-![Pettitt's test](Pettitt's test.jpeg)
+![Pettitt's test](pettitt_test.jpeg)
+
 
 🔹 Pettitt Test Console Result in Rstudio
-![pettit result.PNG](pettit result.PNG)
+![pettit result.PNG](pettit_result.PNG)
 
 
 📝 Interpretation  

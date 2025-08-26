@@ -35,7 +35,7 @@ This analysis was carried out in R using the following packages:
 
 
 🔹 Pettitt Test Console Result in Rstudio
-![pettit_result.PNG](pettit_result.PNG)
+![pettit_result.PNG](pettit_result.png)
 
 
 📝 Interpretation  

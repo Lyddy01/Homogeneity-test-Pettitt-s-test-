@@ -31,10 +31,10 @@ This analysis was carried out in R using the following packages:
 
    📊 Example Output
 🔹 Rainfall Time Series with Change Point 
-![Rainfall Time Series Plot](images/pettitt_graph.jpeg)
+![Rainfall Time Series Plot](Homogeneity-test-Pettitt-s-test-/images/pettitt_graph.jpeg)
 
 🔹 Pettitt Test Console Result in Rstudio 
-![Pettitt Test Console Result](images/pettitt_result.PNG)
+![Pettitt Test Console Result](Homogeneity-test-Pettitt-s-test-/images/pettitt_result.PNG)
 
 📝 Interpretation  
 

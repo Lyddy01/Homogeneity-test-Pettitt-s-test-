@@ -34,8 +34,8 @@ This analysis was carried out in R using the following packages:
 ![Pettitt's test](Pettitt's test.jpeg)
 
 🔹 Pettitt Test Console Result in Rstudio
+![pettit result.PNG](pettit result.PNG)
 
-<img width="726" height="346" alt="pettit result" src="https://github.com/user-attachments/assets/36191ba1-bda7-46ea-a23b-664c4fb37ed7" />
 
 📝 Interpretation  
 

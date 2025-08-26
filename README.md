@@ -31,7 +31,7 @@ This analysis was carried out in R using the following packages:
 
    📊 Example Output
 🔹 Rainfall Time Series with Change Point
-![Pettitt's test](https://github.com/user-attachments/assets/bdffee64-d068-41c4-ad2b-ca2990397f7e)
+![Pettitt's test](Pettitt's test.jpeg)
 
 🔹 Pettitt Test Console Result in Rstudio
 

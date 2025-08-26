@@ -30,13 +30,11 @@ This analysis was carried out in R using the following packages:
    → Data manipulation
 
    📊 Example Output
-🔹 Rainfall Time Series with Change Point
-![Pettitt_test](pettitt_test.jpeg)
-
+🔹 Rainfall Time Series with Change Point 
+![Rainfall Time Series Plot](images/pettitt_graph.jpeg)
 
 🔹 Pettitt Test Console Result in Rstudio
-![pettit_result.PNG](pettit_result.png)
-
+![Pettitt Test Console Result](images/pettitt_result.PNG)
 
 📝 Interpretation  
 
